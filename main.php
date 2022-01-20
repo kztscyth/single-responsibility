@@ -47,9 +47,9 @@ class Age{
 }
 
 $data = [
-    'name' => 'MuhammadIkhsanNurFalah', 
-    'email' => 'ikhsankirito07@gmail.com',
-    'birth' => '07.11.2000'
+    'name' => '', 
+    'email' => '',
+    'birth' => ''
 ];
 
 UserRequest::validate($data);
